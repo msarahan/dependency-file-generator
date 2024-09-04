@@ -6,7 +6,7 @@ on:
 
 env:
   OUTPUT_DIR: /tmp/output
-  otel-exporter-otlp-endpoint: https://smee.io/nIZwTOr6qbw1PckT
+  otel-exporter-otlp-endpoint: lcedt.fatcowshrine.com:443/
   otel-service-name: o11y.workflows
   otel-resource-attributes: deployment.environent=dev,service.version=0.1.0
 
